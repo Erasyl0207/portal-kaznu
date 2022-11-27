@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = kz.kaznu.portal.config.TestContainersSpringContextCustomizerFactory
